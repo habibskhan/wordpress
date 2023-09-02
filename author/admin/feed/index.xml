@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>admin &#8211; kivi water</title>
+	<atom:link href="httphabibskhan.github.io/wordpress/author/admin/feed/" rel="self" type="application/rss+xml" />
+	<link>httphabibskhan.github.io/wordpress</link>
+	<description>kivi water</description>
+	<lastBuildDate>Sat, 02 Sep 2023 08:32:26 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.3.1</generator>
+
+<image>
+	<url>httphabibskhan.github.io/wordpress/wp-content/uploads/2023/09/apple-touch-icon-150x150.png</url>
+	<title>admin &#8211; kivi water</title>
+	<link>httphabibskhan.github.io/wordpress</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>blog</title>
+		<link>httphabibskhan.github.io/wordpress/blog-2/</link>
+					<comments>httphabibskhan.github.io/wordpress/blog-2/#respond</comments>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Sat, 02 Sep 2023 06:53:21 +0000</pubDate>
+				<category><![CDATA[News]]></category>
+		<guid isPermaLink="false">httphabibskhan.github.io/wordpress/?p=939</guid>
+
+					<description><![CDATA[hello]]></description>
+										<content:encoded><![CDATA[
+<p>hello</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>httphabibskhan.github.io/wordpress/blog-2/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>post</title>
+		<link>httphabibskhan.github.io/wordpress/blog/</link>
+					<comments>httphabibskhan.github.io/wordpress/blog/#respond</comments>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Sat, 02 Sep 2023 06:33:14 +0000</pubDate>
+				<category><![CDATA[News]]></category>
+		<guid isPermaLink="false">httphabibskhan.github.io/wordpress/?p=593</guid>
+
+					<description><![CDATA[hello world]]></description>
+										<content:encoded><![CDATA[
+<p>hello world</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>httphabibskhan.github.io/wordpress/blog/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>
